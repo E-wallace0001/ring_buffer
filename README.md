@@ -24,7 +24,7 @@ cmake ..
 cmake --build ./
 
 
-Will compile the program to 'tests' in the build folder and can be run using ./build
+Will compile the program to 'tests' in the build folder and can be run using ./tests
 
 
 
